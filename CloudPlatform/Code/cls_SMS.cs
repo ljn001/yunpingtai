@@ -37,12 +37,12 @@ namespace CloudPlatform.Code
         {
             if (PhoneNumber.Length == 11)
             {
-                Client client = CreateClient("accessKeyId", "accessKeySecret");
+                Client client = CreateClient("LTAI5tRLQzuaKW1uUNzVcdiC", "uLOvdYbEY6E9CM8vgEOddrnRfBLWt2");
                 SendSmsRequest sendSmsRequest = new SendSmsRequest
                 {
                     PhoneNumbers = PhoneNumber,
-                    SignName = "短信签名",
-                    TemplateCode = "短信模板Code",
+                    SignName = "环球渔具",
+                    TemplateCode = "SMS_465680397",
                     TemplateParam = "{\"code\":\"" + VerifyCode + "\"}",
                 };
                 AlibabaCloud.TeaUtil.Models.RuntimeOptions runtime = new AlibabaCloud.TeaUtil.Models.RuntimeOptions();
