@@ -1,0 +1,95 @@
+﻿body {
+    padding: 5px;
+	font-size: 13px;
+}
+.marginr {
+    margin-right: 5px;
+}
+
+.clear {
+    clear: both;
+}
+
+ul.result, ol.result {
+    margin: 10px 0;
+    padding: 0;
+    border-top: solid 1px #ddd;
+}
+
+    ul.result li, ol.result li {
+        list-style-type: none;
+        margin: 0;
+        padding: 5px;
+        border-bottom: solid 1px #ddd;
+    }
+
+
+table.result {
+    margin: 5px 0;
+    width: 500px;
+    border-collapse: collapse;
+}
+
+    table.result th {
+        font-weight: bold;
+    }
+
+    table.result td, table.result th {
+        border-bottom: solid 1px #ddd;
+        padding: 5px;
+        text-align: left;
+    }
+
+
+.highlight {
+    font-weight: bold;
+    color: red;
+}
+
+.f-region-cover .f-tool {
+	height:32px;
+}
+
+.f-toolbar {
+    padding: 0 5px 0 5px;
+}
+
+.f-tree-cell-inner {
+	padding: 1px 2px 1px 5px;
+}
+
+.f-tree-headerstyle .f-tree-node.f-tree-node-toplevel .f-tree-cell-inner {
+	padding: 1px 2px 1px 5px;
+}
+
+.f-panel-header {
+	padding:5px;
+}
+
+.f-panel-title-text {
+	line-height:16px;
+}
+
+.f-tabstrip-header>.f-panel-title {
+    min-height: 25px;
+}
+
+.f-corner-all, .f-corner-bottom, .f-corner-right, .f-corner-br{
+	padding:0;
+}
+
+.f-btn {
+    padding: 2px 6px;
+}
+
+.f-grid-colheader-inner .f-grid-colheader-text{
+	padding:2px 6px;
+}
+
+.f-grid-cell-inner {
+	padding:1px 6px;
+}
+
+.f-panel-body .f-field {
+    margin-bottom: 1px;
+}

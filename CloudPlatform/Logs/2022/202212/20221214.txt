@@ -1,0 +1,2 @@
+2022-12-14 15:21:13.6357[INFO]:GetWXAccessTokenRes：{"errcode":40164,"errmsg":"invalid ip 120.224.102.163 ipv6 ::ffff:120.224.102.163, not in whitelist rid: 6399796d-5da83fe8-0f1fe29a"}
+2022-12-14 15:21:13.7179[INFO]:GetWXTicketRes：{"errcode":41001,"errmsg":"access_token missing rid: 6399796d-3cd47d24-1b27a3b7"}

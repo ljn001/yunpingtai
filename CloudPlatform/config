@@ -1,0 +1,15 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "云平台"]
+	url = https://github.com/ljn001/云平台.git
+	pushurl = https://github.com/ljn001/云平台.git
+	fetch = +refs/heads/*:refs/remotes/云平台/*
+[remote "origin"]
+	url = https://github.com/ljn001/yunpingtai.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	tagopt = --no-tags
+	pushurl = https://github.com/ljn001/yunpingtai.git

@@ -1,0 +1,4 @@
+2024-04-18 08:21:29.7756[INFO]:GetWXAccessTokenRes：{"errcode":40013,"errmsg":"invalid appid rid: 66206789-44b2ff49-3aac78eb"}
+2024-04-18 08:21:29.8477[INFO]:GetWXTicketRes：{"errcode":41001,"errmsg":"access_token missing rid: 66206789-503141bf-7fe3cd10"}
+2024-04-18 08:26:47.4124[INFO]:GetWXAccessTokenRes：{"errcode":40013,"errmsg":"invalid appid rid: 662068c7-3b355d29-3bd1e71b"}
+2024-04-18 08:26:47.4797[INFO]:GetWXTicketRes：{"errcode":41001,"errmsg":"access_token missing rid: 662068c7-67003f41-0d6d4a60"}
